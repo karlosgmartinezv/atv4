@@ -1,0 +1,35 @@
+#EXTINF:-1 tvg-logo="Latino-DISCOVERY- KIDS.png",Discovery Kids
+http://tvultimate.ddns.net/LIVE/H01/CANAL303/PROFILE05.m3u8?tvultimate=%2F.ts
+
+#EXTINF:-1 tvg-logo="disney jr.png",Disney Jr
+http://tvultimate.ddns.net/LIVE/H01/CANAL308/PROFILE05.m3u8?tvultimate=%2F.ts
+
+#EXTINF:-1 tvg-logo="nick jr.png",Nick Jr
+http://tvultimate.ddns.net/LIVE/H01/CANAL310/PROFILE05.m3u8?tvultimate=%2F.ts
+
+#EXTINF:-1 tvg-logo="disney channel.png",Disney Channel
+http://tvultimate.ddns.net/LIVE/H01/CANAL312/PROFILE05.m3u8?tvultimate=%2F.ts
+
+#EXTINF:-1 tvg-logo="nicktoons.png",NickToons
+http://tvultimate.ddns.net/LIVE/H01/CANAL314/PROFILE05.m3u8?tvultimate=%2F.ts
+
+#EXTINF:-1 tvg-logo="nick hd.png",Nick HD
+http://tvultimate.ddns.net/LIVE/H01/CANAL315/PROFILE05.m3u8?tvultimate=%2F.ts
+
+#EXTINF:-1 tvg-logo="nickelodeon.png",Nickelodeon
+http://tvultimate.ddns.net/LIVE/H01/CANAL317/PROFILE05.m3u8?tvultimate=%2F.ts
+
+#EXTINF:-1 tvg-logo="cartoon network.png",Cartoon Network
+http://tvultimate.ddns.net/LIVE/H01/CANAL320/PROFILE05.m3u8?tvultimate=%2F.ts
+
+#EXTINF:-1 tvg-logo="disney xd.png",Disney XD
+http://tvultimate.ddns.net/LIVE/H01/CANAL322/PROFILE05.m3u8?tvultimate=%2F.ts
+
+#EXTINF:-1 tvg-logo="boomerang.png",Boomerang
+http://tvultimate.ddns.net/LIVE/H01/CANAL324/PROFILE05.m3u8?tvultimate=%2F.ts
+
+#EXTINF:-1 tvg-logo="tooncast.png",Tooncast
+http://tvultimate.ddns.net/LIVE/H01/CANAL328/PROFILE05.m3u8?tvultimate=%2F.ts
+
+#EXTINF:-1 tvg-logo="tiin.png",TIIN
+http://tvultimate.ddns.net/LIVE/H01/CANAL325/PROFILE05.m3u8?tvultimate=%2F.ts
